@@ -7,11 +7,11 @@ class StaticPagesController < ApplicationController
 
   def about
   end
-  
+
   def toi
   end
-  
+
   def ton_groupe
   end
-  
+
 end
